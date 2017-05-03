@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">SmartTour</string>
+    <string name="offline_dir">offline_dir</string>
+    <string name="local_tpk">local_tpk</string>
+    <string name="img_description">图片</string>
+    <string name="welcome">全新的旅游体验</string>
+
+    <string name="prediction">预报</string>
+    <string name="today">今天</string>
+    <string name="detail_info">详细信息</string>
+    <string name="weather_prediction">详细信息</string>
+    <string name="today_prediction">今日预报</string>
+    <string name="d_prediction">天气预报</string>
+    <string name="detail_temp">体感温度</string>
+    <string name="api_humidity">空气湿度</string>
+    <string name="wind">风力风向</string>
+    <string name="cancel">取消</string>
+    <string name="finish">完成</string>
+
+    <!--登录界面-->
+    <string name="login">登录</string>
+    <string name="password">请输入密码</string>
+    <string name="phone">请输入手机号</string>
+    <string name="register_user">注册用户</string>
+    <string name="register">注册</string>
+    <string name="certain_password">请确认密码</string>
+    <string name="verification_code">请输入验证码：</string>
+    <!--dialog-->
+    <string name="take_photo">拍照</string>
+    <string name="photo_album">从相册选择</string>
+    <string name="welcome_write">我在这里等你</string>
+    <!--城市列表-->
+    <string name="search_city">请输入要搜索的城市</string>
+    <string name="city_list">城市列表</string>
+    <!--城市管理-->
+    <string name="city_manager">城市管理</string>
+
+    <!--引导页-->
+    <string name="guide_immediately">立即进入</string>
+    <string name="guide_page_one">风雨相随</string>
+    <string name="guide_page_two">一生陪伴</string>
+    <!--挂件-->
+    <string name="widget_time">10:35</string>
+    <string name="widget_temp">1°C</string>
+    <string name="widget_aqi">空气质量:良</string>
+    <string name="widget_cond">晴</string>
+    <string name="widget_city">昌平</string>
+    <string name="widget_suggest">穿衣建议</string>
+    <string name="widget_wind">微风</string>
+    <string name="delete">删除</string>
+    <string name="pm">PM2.5</string>
+    <string name="pmcontent">入肺颗粒物</string>
+    <string name="pmten">PM10</string>
+    <string name="pmtencentent">可吸入颗粒物</string>
+    <string name="so">SO2</string>
+    <string name="cocentent">二氧化硫</string>
+    <string name="no">NO2</string>
+    <string name="nocentent">二氧化氮</string>
+    <string name="o">O3</string>
+    <string name="ocentent">臭氧</string>
+    <string name="co">CO</string>
+    <string name="cotext">一氧化碳</string>
+    <string name="image_notify">图片</string>
+</resources>
